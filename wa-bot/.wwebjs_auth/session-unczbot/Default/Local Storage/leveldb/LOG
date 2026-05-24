@@ -1,0 +1,18 @@
+2026/05/23-21:57:10.409 31e4 Reusing MANIFEST C:\Users\naeem\Desktop\Python Projects\corpus\wa-bot\.wwebjs_auth\session-unczbot\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/23-21:57:10.414 31e4 Recovering log #15
+2026/05/23-21:57:10.418 31e4 Reusing old log C:\Users\naeem\Desktop\Python Projects\corpus\wa-bot\.wwebjs_auth\session-unczbot\Default\Local Storage\leveldb/000015.log 
+2026/05/23-21:57:24.698 8e04 Level-0 table #19: started
+2026/05/23-21:57:24.710 8e04 Level-0 table #19: 14343 bytes OK
+2026/05/23-21:57:24.712 8e04 Delete type=0 #15
+2026/05/23-21:57:24.712 8e04 Compacting 4@0 + 1@1 files
+2026/05/23-21:57:24.718 8e04 Generated table #20@0: 79 keys, 5304 bytes
+2026/05/23-21:57:24.718 8e04 Compacted 4@0 + 1@1 files => 5304 bytes
+2026/05/23-21:57:24.718 8e04 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/23-21:57:24.719 8e04 Delete type=2 #7
+2026/05/23-21:57:24.719 8e04 Delete type=2 #10
+2026/05/23-21:57:24.719 8e04 Delete type=2 #13
+2026/05/23-21:57:24.719 8e04 Delete type=2 #16
+2026/05/23-21:57:24.719 8e04 Delete type=2 #19
+2026/05/24-00:32:36.914 8e04 Level-0 table #22: started
+2026/05/24-00:32:36.939 8e04 Level-0 table #22: 15521 bytes OK
+2026/05/24-00:32:36.945 8e04 Delete type=0 #18
