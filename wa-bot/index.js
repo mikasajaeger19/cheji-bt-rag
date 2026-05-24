@@ -178,6 +178,8 @@ client.on(
                 !msg.body
             ) return;
 
+            if (msg.body.split(' ')[0].toLowerCase() != 'cheji') return;
+
             if (
                 msg.fromMe
             ) return;
